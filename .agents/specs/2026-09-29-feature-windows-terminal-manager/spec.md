@@ -10,6 +10,8 @@
 > Branch: feat/termora-core
 > Delivery mode: pr
 > Delivery target: Default branch updated
+> Delivery PR: https://github.com/disakornDev/termora/pull/1
+> Delivery commit: dfe70d9
 > Documentation: true
 > Documentation source: .agents/workflow.json
 > Fresh review: required
